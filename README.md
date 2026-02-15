@@ -120,7 +120,7 @@ Training-based immersive MR application for engineering & carpentry.
 - Multi-view rendering handling
 - Hardware-specific optimization
 
-🎥 Demo: 
+🎥 Demo: https://www.youtube.com/watch?v=sNzZERWm9_w
 
 ---
 
