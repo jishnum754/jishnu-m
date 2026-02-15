@@ -1,7 +1,3 @@
-# jishnu-m
-Senior Unity Developer Portfolio | AR/VR/MR, HoloLens, Spatial Reality Display, Multi-Display Systems, Desktop &amp; Mobile Applications
-
-
 # 👋 Jishnu M  
 ### Senior Unity Developer | AR/VR/MR Specialist
 
@@ -72,6 +68,22 @@ Feud-style desktop game with dynamic interaction system.
 - Modular question management system
 - Reusable UI architecture
 - Clean scene loading system
+
+🎥 Demo: 
+
+---
+
+### 🎰 Press Your Luck Game
+Interactive desktop-based game inspired by the classic "Press Your Luck" concept, built for live event environments and audience engagement.
+
+**Highlights:**
+- Designed dynamic random reward logic system
+- Implemented animated spinning board with timed stopping mechanics
+
+**Technical Focus:**
+- Modular game state architecture
+- Coroutine-based animation timing control
+- Clean separation between game logic and UI layer
 
 🎥 Demo: 
 
